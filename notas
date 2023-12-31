@@ -1,0 +1,4 @@
+se inestalla de forma global 
+npm install -g http-server
+luego me paro sobre el proyecto de rect y levanto la aplicacion con http-server -o
+
